@@ -34,3 +34,7 @@ BenchmarkFileLineName-4   	 6687564	       178.6 ns/op	       0 B/op	       0 al
 PASS
 ok  	github.com/phuslu/fastcaller	2.740s
 ```
+
+## Acknowledgment
+
+This log is inspired by [tlog-dev/loc](https://github.com/tlog-dev/loc).
